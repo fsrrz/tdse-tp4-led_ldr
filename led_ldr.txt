@@ -1,0 +1,169 @@
+1. En la oscuridad total (tapándo el ldr con las manos) medios 236k Omh. Iluminado llegaba a aproximadamente 10k.
+
+2. No sabemos si la medición de 236k era correcta, pero pide ajustar el potenciómetro al valor más alto registra-
+-do, pero como solo puede llegar hasta 10k así lo dejamos.
+
+5. No contábamos con un LED blanco así que utilizamos uno rojo.
+
+7. Realizamos la prueba en el LABI, por lo que no pudimos disminuir notablemente las fuentes de luz externas.
+
+10.La lista de valores obtenida (para un período en donde el led se predne completamente y 
+vuelve a apagarse por compelto) fue:
+
+ 0 4030
+
+
+2048,4030
+
+2048 4033
+
+
+4096,4033
+
+4096 4031
+
+
+6144,4031
+
+6144 4031
+
+
+8192,4031
+
+8192 4031
+
+
+10240,4031
+
+10240 4034
+
+
+12288,4034
+
+12288 4034
+
+
+14336,4034
+
+14336 4033
+
+
+16384,4033
+
+16384 4031
+
+
+18432,4031
+
+18432 4031
+
+
+20480,4031
+
+20480 4031
+
+
+22528,4031
+
+22528 4032
+
+
+24576,4032
+
+24576 4031
+
+
+26624,4031
+
+26624 4033
+
+
+28672,4033
+
+28672 4031
+
+
+30720,4031
+
+30720 4031
+
+
+32768,4031
+
+32768 4033
+
+
+34816,4033
+
+34816 4030
+
+
+36864,4030
+
+36864 4031
+
+
+38912,4031
+
+38912 4030
+
+
+40960,4030
+
+40960 4031
+
+
+43008,4031
+
+43008 4033
+
+
+45056,4033
+
+45056 4030
+
+
+47104,4030
+
+47104 4033
+
+
+49152,4033
+
+49152 4031
+
+
+51200,4031
+
+51200 4031
+
+
+53248,4031
+
+53248 4031
+
+
+55296,4031
+
+55296 4033
+
+
+57344,4033
+
+57344 4031
+
+
+59392,4031
+
+59392 4031
+
+
+61440,4031
+
+61440 4032
+
+
+63488,4032
+
+63488 4031 
+
